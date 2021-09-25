@@ -1,0 +1,23 @@
+1. When byte and/or short variables are participating in an arthmetic operation then they will be promoted     to int type.
+2. In java local variables cannot be static.
+Assignment 1 : int year = ? leap year or not
+Assignment 2 : Billing Tax
+Assignment 3 : Electric bill
+3.All classes are reference data types.
+4.in java all the strings are not mutable.
+5. In java a 2D array is array of arrays
+Assignment 4: Sort all the elements of array a in ascending order.
+Assignment 5: If 10 is found in array a then it should return true else false
+
+
+1. https://www.javamadesoeasy.com/2015/10/java-8-mcq-multiple-choice-questions.html
+2. https://electronicspost.com/java-mcq-multiple-choice-questions-and-answers-on-java/5/
+3. https://data-flair.training/blogs/java-online-test/
+4. http://mcqquestion.blogspot.com/2012/08/java-programming-oop-questions-and_11.html
+(this site is Very Good)
+5.https://www.sanfoundry.com/java-questions-answers-freshers-experienced
+
+
+Hell0@2021
+
+prgk22R@
